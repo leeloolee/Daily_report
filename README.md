@@ -1,2 +1,4 @@
 # Daily_report
-daily report
+
+
+데일리 리포트가 뭐에요? 
